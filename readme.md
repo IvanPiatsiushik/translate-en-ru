@@ -1,4 +1,4 @@
-#  Translate without use Api !!!
+#  Translate without use Api !!! Total 7 lines code !!!
 
 1 . I create maven project and write dependencies (Jsop).
 This dependencies need for parsing website . I choose
